@@ -4,7 +4,7 @@ In language studies, [Zipf's law](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4
 
 Let <img src="https://render.githubusercontent.com/render/math?math=r"> be the **rank** of a given word in a language, meaning that the <img src="https://render.githubusercontent.com/render/math?math=r">th most common word in the language has rank <img src="https://render.githubusercontent.com/render/math?math=r">. For example, in any English text, the word "the" usually has rank <img src="https://render.githubusercontent.com/render/math?math=r%3D1">, as it's usually the most common word in the text; the word "of" typically has rank <img src="https://render.githubusercontent.com/render/math?math=r%3D2">, as it's usually the second most common word; etc.
 
-Zipf's law states that the **frequency** of the <img src="https://render.githubusercontent.com/render/math?math=r%3D2">th most common word in a language (i.e. how often the word occurs in that language) is proportional to <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{r^s}">, where <img src="https://render.githubusercontent.com/render/math?math=s"> is usually close to 1.
+Zipf's law states that the **frequency** of the <img src="https://render.githubusercontent.com/render/math?math=r">th most common word in a language (i.e. how often the word occurs in that language) is proportional to <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{r^s}">, where <img src="https://render.githubusercontent.com/render/math?math=s"> is usually close to 1.
 
 Intuitively, this means that the most common word in a language is typically used about twice as often as the second most common word, three times as often as the third most common word, etc.
 
